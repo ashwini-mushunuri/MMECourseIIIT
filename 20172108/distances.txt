@@ -1,0 +1,24 @@
+Frequency Distribution Details...
+--------------------------------------------------------
+            Seq1                      Seq2
+--------------------------------------------------------
+        A     T     G     C        A     T     G    C
+--------------------------------------------------------
+Count  1414   1488   1472   1511      1257   1138   1085   966
+Freq  0.24 0.253 0.25 0.257    0.283 0.256 0.244 0.217
+--------------------------------------------------------
+
+Jukes Cantor Distance Details...
+Proportion of sites with different nucleotides, p= 0.732118758435
+Jukes Cantor Distance= 2.80224075031
+
+Kimura 2 Parameter Distance Details...
+Transition Frequency, p= 0.244714349978
+Transversion_Frequency, q= 0.487404408457
+Kimura 2 Distance= 2.80283085895
+
+Kimura 3 Parameter Distance Details...
+Beta= 0.244714349978
+Delta= 0.24628879892
+Gamma= 0.241115609537
+Kimura 3 Distance= 2.81561821766
